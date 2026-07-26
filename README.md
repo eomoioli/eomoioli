@@ -70,18 +70,21 @@ Atualmente desenvolvendo projetos com Python, SQL e Power BI enquanto aprofundo 
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eomoioli/eomoioli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eomoioli/eomoioli/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eomoioli/eomoioli/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<h3 align="center">📊 GitHub Stats</h3>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/eomoioli/eomoioli/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=eomoioli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/eomoioli/eomoioli/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eomoioli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomoioli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eomoioli&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eomoioli&theme=tokyo-night&hide_border=true" />
+</div>
