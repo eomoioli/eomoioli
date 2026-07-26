@@ -72,9 +72,6 @@ Atualmente desenvolvendo projetos com Python, SQL e Power BI enquanto aprofundo 
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eomoioli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
 
 <br>
 
