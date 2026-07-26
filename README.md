@@ -6,19 +6,20 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
+<h3 data-importer="text" align="center">👩‍💻  Sobre Mim</h3>
 
 ###
 
-<p data-importer="text" align="left">- 📊 Entusiasta de Ciência de Dados e Analytics<br>- 🐍 Desenvolvendo projetos com Python<br>- 📈 Interesse em Machine Learning, BI e Visualização de Dados<br>- 💾 Sempre aprendendo novas ferramentas e tecnologias<br>- ☕ Acredito que boas decisões começam com bons dados</p>
+<p data-importer="text" align="center">- 📊 Entusiasta de Ciência de Dados e Analytics<br>- 🐍 Desenvolvendo projetos com Python<br>- 📈 Interesse em Machine Learning, BI e Visualização de Dados<br>- 💾 Sempre aprendendo novas ferramentas e tecnologias<br>- ☕ Acredito que boas decisões começam com bons dados</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠Linguagens</h3>
+<h3 data-importer="text" align="center">🛠Linguagens</h3>
 
 ###
 
 <div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
