@@ -1,4 +1,4 @@
-<img src="assets/beff834f5414bda5c41b53077caa53c6.jpg" width="100%">
+<img src="assets/banner.png" width="100%">
 
 ###
 
