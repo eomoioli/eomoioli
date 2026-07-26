@@ -29,7 +29,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠Ferramentas</h3>
+<h3 data-importer="text" align="center">🛠Ferramentas</h3>
 
 ###
 
