@@ -1,6 +1,4 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://unsplash.com/pt-br/fotografias/livro-aberto-ao-lado-da-bola-de-cristal-0V7_N62zZcU"  />
-</div>
+<img src="assets/beff834f5414bda5c41b53077caa53c6.jpg" width="100%">
 
 ###
 
